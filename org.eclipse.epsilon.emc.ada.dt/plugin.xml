@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.epsilon.common.dt.modelType">
+      <modelType
+            class="org.eclipse.epsilon.emc.ada.AdaModel"
+            icon="icons/ada16.png"
+            label="Ada Model"
+            type="Ada">
+      </modelType>
+   </extension>
+
+</plugin>
