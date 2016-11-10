@@ -5,6 +5,7 @@ Bundle-SymbolicName: org.eclipse.epsilon.emc.ada.dt
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: org.eclipse.epsilon.emc.ada.dt.Activator
 Require-Bundle: org.eclipse.ui,
- org.eclipse.core.runtime
+ org.eclipse.core.runtime,
+ org.eclipse.epsilon.common.dt
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ActivationPolicy: lazy
