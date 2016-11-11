@@ -5,6 +5,7 @@
          point="org.eclipse.epsilon.common.dt.modelType">
       <modelType
             class="org.eclipse.epsilon.emc.ada.AdaModel"
+            dialog="org.eclipse.epsilon.emc.ada.dt.AdaModelConfigurationDialog"
             icon="icons/ada16.png"
             label="Ada Model"
             type="Ada">
